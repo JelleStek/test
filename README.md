@@ -1,5 +1,5 @@
-# My testing reposotory
-Hi, this is my testing repo. I test, create and destoy things in this reposotory.
+# My testing repository
+Hi, this is my testing repo. I test, create and destoy things in this repository.
 See the *Activity* tab to follow what I'm doing
 
 ## Activity
