@@ -13,7 +13,9 @@ See the *Activity* tab to follow what I'm doing
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+### 07/09/2002
+Right now I'm working on custom animations with AOS and @keyframes.
+![Test Image 1](assets/view.gif)
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
