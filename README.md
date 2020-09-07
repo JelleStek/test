@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+=======
+# My testing repository
+Hi, this is my testing repo. I test, create and destoy things in this repository.
+See the *Activity* tab to follow what I'm doing
+>>>>>>> master
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
