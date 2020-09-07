@@ -1,1 +1,10 @@
+//vendor, etc
+@import "~bootstrap/scss/bootstrap";
+@import "vendor/bootstrap-fix";
+
+//fonts
+@import url("https://use.typekit.net/dix0mnf.css");
+
+//components
 @import 'components/test';
+@import "components/animations";

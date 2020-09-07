@@ -1,0 +1,55 @@
+section.hero {
+    background-size: cover;
+    background: center no-repeat;
+
+    .content {
+        h1 {
+            color: #fff;
+            font-family: sofia-pro, sans-serif;
+            font-weight: 900;
+            font-size: 120px;
+            text-shadow: 0 0 10px rgba(0,0,0,.3);
+        }
+
+        .top, .bottom {
+            overflow: hidden;
+
+            span {
+                display: flex;
+            }
+
+            h1 {
+                position: relative;
+                margin-left: 40px;
+                line-height: 100px;
+            }
+        }
+
+        .top {
+            h1 {
+                &:nth-child(1) {
+                    animation: fade1 .9s;
+                }
+                &:nth-child(2) {
+                    animation: fade2 .9s;
+                }
+                &:nth-child(3) {
+                    animation: fade3 .9s;
+                }
+            }
+        }
+
+        .bottom {
+            margin-left: 460px;
+
+            h1 {
+                &:nth-child(1) {
+                    animation: fade4 .9s;
+                }
+                &:nth-child(2) {
+                    animation: fade5 .9s;
+                }
+            }
+        }
+    }
+}
