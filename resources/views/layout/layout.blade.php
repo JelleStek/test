@@ -10,4 +10,3 @@
         @yield('content')
     </body>
 </html>
-<script></script>
